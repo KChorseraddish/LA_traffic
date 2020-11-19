@@ -16,7 +16,7 @@ street_long_and_lat_dict = {'Vermont':'34.011584,-118.291582',
 """API_key is currently set to mine. Replace the key by registering for your own TomTom API 
 Key here: https://developer.tomtom.com/user/register"""
 
-API_key = 'UesdCK9LKchNS0XXgcB63PWbaK7aFh0k'
+API_key = 'XXXXXXXXXXXXXXXXXXXXXXXXX'
 
 """Function to build the complete search URL"""
 def url_build(street_name, zoom_level):
